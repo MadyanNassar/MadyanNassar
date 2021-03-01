@@ -1,5 +1,8 @@
-<h1>### Hi there 👋 I'm Madyan Nassar</h1>
-
+<h1 align="center">### Hi there 👋 I'm Madyan Nassar</h1>
+<h2 align="center"> 
+  <br><br><br>
+  
+  <img src="https://bhutandeveloper.com/wp-content/uploads/2020/05/website.gif" alt="programming.gif" width="600px">
 <!--
 **MadyanNassar/MadyanNassar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
