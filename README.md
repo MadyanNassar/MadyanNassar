@@ -26,4 +26,4 @@
 
 
 
-📫 How to reach me: => on linkedIn <a href="http://www.https://www.linkedin.com/in/madyan-nassar/" target="blank"><img src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="MadyanNassarLinkedIn" height="20px" width="40x"> <br>
+📫 How to reach me: => on linkedIn <a href="https://www.linkedin.com/in/madyan-nassar/" target="blank"><img src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="MadyanNassarLinkedIn" height="20px" width="40x"> <br>
