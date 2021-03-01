@@ -1,4 +1,4 @@
-<span align="center">### Hi there 👋 I'm <h1>Madyan Nassar</h1> </span>
+### Hi there 👋 I'm <h1>Madyan Nassar
 
 <!--
 **MadyanNassar/MadyanNassar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
